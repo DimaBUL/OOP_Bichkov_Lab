@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bichkov_Lab2_1", "Bichkov_Lab2_1\Bichkov_Lab2_1.csproj", "{FCEE8C5D-B56B-4BF9-8A07-D1ABD60A65D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEE8C5D-B56B-4BF9-8A07-D1ABD60A65D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEE8C5D-B56B-4BF9-8A07-D1ABD60A65D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEE8C5D-B56B-4BF9-8A07-D1ABD60A65D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEE8C5D-B56B-4BF9-8A07-D1ABD60A65D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
