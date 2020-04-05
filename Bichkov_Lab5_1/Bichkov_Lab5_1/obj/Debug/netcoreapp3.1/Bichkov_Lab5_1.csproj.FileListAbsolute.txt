@@ -1,0 +1,11 @@
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1.deps.json
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1.runtimeconfig.json
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1.runtimeconfig.dev.json
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1.dll
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/bin/Debug/netcoreapp3.1/Bichkov_Lab5_1.pdb
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/obj/Debug/netcoreapp3.1/Bichkov_Lab5_1.csprojAssemblyReference.cache
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/obj/Debug/netcoreapp3.1/Bichkov_Lab5_1.AssemblyInfoInputs.cache
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/obj/Debug/netcoreapp3.1/Bichkov_Lab5_1.AssemblyInfo.cs
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/obj/Debug/netcoreapp3.1/Bichkov_Lab5_1.dll
+/Users/mac/Bichkov_Lab5/Bichkov_Lab5_1/Bichkov_Lab5_1/obj/Debug/netcoreapp3.1/Bichkov_Lab5_1.pdb
